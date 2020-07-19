@@ -16,3 +16,4 @@ Progetto di PSSS A.A. 2019/2020.
 
 ## Cartella OneDrive
 La cartella OneDrive contiene anche un video di Demo del progetto.
+[Link](https://communitystudentiunina-my.sharepoint.com/:f:/g/personal/f_papulino_studenti_unina_it/EhybRcFuwJRDgFYvj-iWpYsBChkAH_qBL5QrdSKqSNn_Lw?e=uIPLYC)
