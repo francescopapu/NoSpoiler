@@ -1,0 +1,1 @@
+DROP TABLE `progetto`.`supermercato`, `progetto`.`referente`, `progetto`.`prodotto`, `progetto`.`ordine`, `progetto`.`descrizioneprodotto`, `progetto`.`cliente`, `progetto`.`carrello`;
